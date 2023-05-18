@@ -8,6 +8,6 @@
 	"pairTokenTicker": "USDT",
 	"pairAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
 	"timeStamp": 1655381328,
-	"priceToPair": 1.00000000,
+	"priceToPair": 1.00000000000000,
 	"priceToUSDT": 1.00000000
 }
